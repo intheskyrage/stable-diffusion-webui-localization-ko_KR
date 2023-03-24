@@ -648,6 +648,7 @@
 	"Variation seed": "바리에이션 시드",
 	"Variation strength": "바리에이션 강도",
 	"Very cheap approximation. Very fast compared to VAE, but produces pictures with 8 times smaller horizontal/vertical resolution and extremely low quality.": "매우 저렴한 인공 신경망 근사치 추정입니다. VAE와 비교하면 매우 빠르지만, 가로/세로 해상도가 8배 작고 품질이 매우 낮은 이미지를 생성합니다.",
+	"Version","버젼",
 	"Weighted sum": "가중 합",
 	"What to put inside the masked area before processing it with Stable Diffusion.": "Stable Diffusion으로 이미지를 생성하기 전 마스크된 부분에 무엇을 채울지 결정하는 설정값",
 	"When adding extra network such as Hypernetwork or Lora to prompt, use this multiplier for it.": "하이퍼네트워크나 로라 같은 추가 네트워크를 프롬프트에 추가할 때, 이 배율값을 사용합니다.",
